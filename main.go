@@ -22,12 +22,6 @@ func main() {
     var err error
 	
 	use(a, file, sheet, err)
-	xulu.use()
-	un.use()
-	
-	not.use()
-	xulu.use(
-	avoid.use()
 }
 
 func use(vals ...interface{}) {

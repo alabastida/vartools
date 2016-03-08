@@ -1,6 +1,3 @@
-avoid annoying declared and not used
-Usage:
-
 package main
 
 import (

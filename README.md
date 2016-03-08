@@ -4,8 +4,6 @@ import (
 	"github.com/lunux2008/xulu"
 )
 
-const SIZE = 1000000
-
 func main() {
 
 	a := "declared and not used"

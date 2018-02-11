@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/alabastida/xulu"
+	"github.com/alabastida/vartools"
 )
 
 func main() {
@@ -11,5 +11,5 @@ func main() {
 	c := 123
 
 	// 开发调试的时候所有被提示未使用的变量都放在这里，调试完成后把这行删掉，再编译并删除未使用的变量
-	xulu.Use(a, b, c)
+	vartools.Use(a, b, c)
 }

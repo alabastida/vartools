@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lunux2008/xulu"
+	"github.com/alabastida/xulu"
 )
 
 func main() {
